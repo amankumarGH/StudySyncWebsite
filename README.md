@@ -1,2 +1,0 @@
-# StudySyncWebsite
-1225
